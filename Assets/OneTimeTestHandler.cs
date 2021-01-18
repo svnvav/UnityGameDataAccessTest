@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 namespace Plarium.VGO.Practice
 {
-    public class DataAccessSpeedTest : MonoBehaviour
+    public class OneTimeTestHandler : MonoBehaviour
     {
         public GameDataMonobeh _prefabGameData;
         public GameDataSO _soGameData;
